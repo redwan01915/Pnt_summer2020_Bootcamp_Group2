@@ -18,6 +18,8 @@
         <module>TDBank</module>
         <module>Expedia</module>
         <module>Southwest</module>
+        <module>TestingPurpose</module>
+        <module>Testing2</module>
     </modules>
 
     <properties>
